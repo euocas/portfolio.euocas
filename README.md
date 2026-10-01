@@ -139,5 +139,6 @@ Este projeto representa meu portfólio profissional e seu conteúdo visual é de
 Os projetos, imagens, marcas e materiais apresentados podem possuir direitos autorais próprios e não devem ser reproduzidos ou utilizados sem autorização.
 
 ---
+<img width="1902" height="3756" alt="me" src="https://github.com/user-attachments/assets/d751f0ad-e2e8-4298-b701-7e8c798fa8cb" />
 
-⭐ **Obrigado por visitar meu portfólio!**
+**Obrigado por visitar meu portfólio!**
